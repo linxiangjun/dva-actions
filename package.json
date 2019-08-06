@@ -1,0 +1,19 @@
+{
+  "name": "dva-actions",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linxiangjun/dva-actions.git"
+  },
+  "author": "xiangjun <me@linxiangjun.cn>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linxiangjun/dva-actions/issues"
+  },
+  "homepage": "https://github.com/linxiangjun/dva-actions#readme"
+}
