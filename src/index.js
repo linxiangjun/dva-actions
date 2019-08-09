@@ -1,4 +1,4 @@
-const actions = (fc, models) => {
+const connectActions = (fc, models) => {
   const actions = {};
   const { g_app } = window;
   const { _store } = g_app || {};
@@ -40,4 +40,4 @@ const actions = (fc, models) => {
   };
 };
 
-export default actions;
+export default { connectActions };
